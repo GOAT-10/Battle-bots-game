@@ -25,10 +25,7 @@ public class TerminatorBot extends Bot {
 	 * My name
 	 */
 	private String name;
-	/**
-	 * Timer for when to shoot
-	 */
-	private int countDown=0;
+
 	/**
 	 * Array of warning messages
 	 */
